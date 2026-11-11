@@ -4,11 +4,15 @@ My two bedroom house plan
 
 ## Rooms
 
--sitting room
--bedroom 1
--bedroom 2
--kitchen
--bathroom
+- sitting room
+
+- bedroom 1
+
+- bedroom 2
+
+- kitchen
+
+- bathroom
 
 ## Size
 
