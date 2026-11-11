@@ -1,7 +1,8 @@
 # my-House-plan
+
 My two bedroom house plan
 
-##rooms
+## Rooms
 
 -sitting room
 -bedroom 1
@@ -9,7 +10,7 @@ My two bedroom house plan
 -kitchen
 -bathroom
 
-##Size
+## Size
 
 -Total: 10m × 8m
 -sitting room: 4m × 4m
