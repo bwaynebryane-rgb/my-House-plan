@@ -1,0 +1,10 @@
+My House Cost Estimate:
+
+-Cement: 50 bags × 750 = 37500
+-Iron Sheets: 30 × 1200 = 36000
+-Timber: 15000
+-Blocks:1000 × 60 = 60000
+-sand + Ballast: 30000
+-Labour:50000
+Total:228500
+
